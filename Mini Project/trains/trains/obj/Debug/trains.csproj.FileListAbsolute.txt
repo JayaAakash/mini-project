@@ -1,0 +1,2 @@
+D:\dotnet-training\Mini Project\trains\trains\obj\Debug\trains.csproj.AssemblyReference.cache
+D:\dotnet-training\Mini Project\trains\trains\obj\Debug\trains.csproj.CoreCompileInputs.cache

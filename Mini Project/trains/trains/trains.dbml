@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Trains" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ICS-LT-841G3F3;Initial Catalog=Trains;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="trains.Properties.Settings" SettingsPropertyName="TrainsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Trains" Member="Trains">
+    <Type Name="Train">
+      <Column Name="TrainNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TrainName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Class" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="TotalBirth" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AvailableBirth" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FromStation" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="ToStation" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Price" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
