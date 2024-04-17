@@ -1,0 +1,7 @@
+D:\mini project\Trains\Trains\bin\Debug\Trains.exe.config
+D:\mini project\Trains\Trains\bin\Debug\Trains.exe
+D:\mini project\Trains\Trains\bin\Debug\Trains.pdb
+D:\mini project\Trains\Trains\obj\Debug\Trains.csproj.AssemblyReference.cache
+D:\mini project\Trains\Trains\obj\Debug\Trains.csproj.CoreCompileInputs.cache
+D:\mini project\Trains\Trains\obj\Debug\Trains.exe
+D:\mini project\Trains\Trains\obj\Debug\Trains.pdb
