@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Button Click Event</title>
+    <script>
+       
+        function handleClick() {
+            console.log("Button clicked!");
+        }
+
+      
+        window.onload = function() {
+            var button = document.getElementById("myButton");
+            button.addEventListener("click", handleClick);
+        };
+    </script>
+</head>
+<body>
+    <h1>Button Click Event</h1>
+    <button id="myButton">Click me!</button>
+</body>
+</html>
