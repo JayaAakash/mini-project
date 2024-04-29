@@ -1,0 +1,2 @@
+D:\mini project\Code Test9\Test9\Test9\Test9\obj\Debug\Test9.csproj.AssemblyReference.cache
+D:\mini project\Code Test9\Test9\Test9\Test9\obj\Debug\Test9.csproj.CoreCompileInputs.cache
